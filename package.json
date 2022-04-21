@@ -1,0 +1,20 @@
+{
+  "name": "base-projeto-node",
+  "version": "1.0.0",
+  "description": "Base para novos projetos em node, segue as instruções no README.md do projeto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon -e ts,json src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulos3r/base-projeto-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulos3r/base-projeto-node/issues"
+  },
+  "homepage": "https://github.com/paulos3r/base-projeto-node#readme"
+}
